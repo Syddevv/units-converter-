@@ -141,9 +141,9 @@ body {
 }
 
 
-@media only screen and (max-width: 380px) {
+@media only screen and (max-width: 350px) {
   .choices {
-    font-size: 12px;
+    font-size: 10px;
   }
 
   .container {
