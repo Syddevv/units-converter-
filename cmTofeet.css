@@ -135,3 +135,14 @@ body {
   text-decoration: none;
   color: black;
 }
+
+
+@media only screen and (max-width: 380px) {
+  .choices {
+    font-size: 12px;
+  }
+
+  .container {
+    padding: 45px
+  }
+}
